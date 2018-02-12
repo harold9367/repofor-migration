@@ -1,0 +1,1 @@
+<<<<<<< .mineThis is a SVN Demo - Edited by Krish on 07/06/16=======This is a SVN Demo - Edited by Krish on 07/06/2016>>>>>>> .theirs
